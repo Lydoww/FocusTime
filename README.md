@@ -33,10 +33,20 @@ Follow these steps to get the app running locally:
 Here are some screenshots of the **FocusTime** app:
 
 ### Home Screen
-![Home Screen](assets/home_screen.png)
+![Home Screen](assets/start.jpg)
 
-### Timer Selection
-![Timer Selection](assets/timer_selection.png)
+### Initialise your task
+![Initialise Task](assets/initialise.jpg)
 
-### Task History
-![Task History](assets/task_history.png)
+### Select timer
+![Select Time](assets/selectTimer.jpg)
+
+### Progress Bar
+![Progress Bar](assets/progressBar.jpg)
+
+### Check your tasks
+![Check Tasks](assets/tasksDone.jpg)
+
+---
+
+✨ Enjoy staying focused and productive with **FocusTime**! ✨

@@ -33,7 +33,7 @@ Follow these steps to get the app running locally:
 Here are some screenshots of the **FocusTime** app:
 
 ### Home Screen
-<img src="assets/start.jpg" alt="Home Screen" width="400"/>
+<img src="assets/start.jpg" alt="Home Screen" width="200"/>
 
 ### Initialise your task
 ![Initialise Task](assets/initialise.jpg)

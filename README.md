@@ -32,15 +32,13 @@ Follow these steps to get the app running locally:
 
 Here are some screenshots of the **FocusTime** app:
 
-### Home Screen
-<img src="assets/start.jpg" alt="Home Screen" width="250"/>
+<div style="display: flex; justify-content: space-between;">
 
-### Initialise Your Task
-<img src="assets/initialise.jpg" alt="Initialise Task" width="250"/>
+  <img src="assets/start.jpg" alt="Home Screen" width="250" style="margin-right: 10px;"/>
+  <img src="assets/initialise.jpg" alt="Initialise Task" width="250" style="margin-right: 10px;"/>
+  <img src="assets/selectTimer.jpg" alt="Select Timer" width="250"/>
 
-### Select Timer
-<img src="assets/selectTimer.jpg" alt="Select Timer" width="250"/>
-
+</div>
 ### Progress Bar
 <img src="assets/progressBar.jpg" alt="Progress Bar" width="250"/>
 

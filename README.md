@@ -1,11 +1,23 @@
-# Sample Snack app
+# ⏰ FocusTime
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+**FocusTime** is a minimalist timer app built with React Native, designed to help you stay focused on your important tasks.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## 📝 Features
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+- **Add a Task**: Specify the task you want to focus on.
+- **Choose Your Focus Time**: Select a timer of 10, 15, or 20 minutes to stay concentrated.
+- **Vibration Alert**: The app vibrates when the timer ends, indicating it's time to take a break or switch tasks.
+- **Return to Previous Screen**: Click the "-" button to go back to the previous screen.
+- **Task History**: View a history of completed tasks. Only tasks completed when the timer runs out are added to the history.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+## 🚀 Getting Started
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+Follow these steps to get the app running locally:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/Lydoww/FocusTime.git
+   cd FocusTime
+   npm install
+   npm start

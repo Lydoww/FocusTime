@@ -19,5 +19,24 @@ Follow these steps to get the app running locally:
    ```bash
    git clone https://github.com/Lydoww/FocusTime.git
    cd FocusTime
+
+2. **start the app:**
+   
+   ```bash
    npm install
    npm start
+
+3. **Focus Time**
+
+## 📱 Screenshots
+
+Here are some screenshots of the **FocusTime** app:
+
+### Home Screen
+![Home Screen](assets/home_screen.png)
+
+### Timer Selection
+![Timer Selection](assets/timer_selection.png)
+
+### Task History
+![Task History](assets/task_history.png)
